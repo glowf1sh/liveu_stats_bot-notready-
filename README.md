@@ -1,3 +1,5 @@
+# This is a fork of the original NOALBS LIVEU STATS Bot - it will include new features but is not ready yet! Please do not pull - it has no changes yet!
+
 # LIVEU STATS BOT
 
 A chat bot that makes it easier to see the current status of the battery and modems.
